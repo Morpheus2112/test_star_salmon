@@ -1,6 +1,6 @@
 export NXF_SINGULARITY_CACHEDIR=$(realpath ./singularity/ )
 
-nextflow run nf-core/rnaseq \
+./nextflow-24 run nf-core/rnaseq \
   -profile singularity \
   -r 3.17.0 \
   --max_cpus 16 \
