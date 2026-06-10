@@ -1,0 +1,15 @@
+sample,fastq_1,fastq_2,strandedness
+40b50210-9f37-4de6-bee9-618f10196522,/data/JZ/test_star_salmon/raw_data/40b50210-9f37-4de6-bee9-618f10196522_1.fastq.gz,/data/JZ/test_star_salmon/raw_data/40b50210-9f37-4de6-bee9-618f10196522_2.fastq.gz,unstranded
+SRR7949447,/data/JZ/test_star_salmon/raw_data/SRR7949447_1.fastq.gz,,unstranded
+923f1d11-b7b5-49b9-9d3a-f037a974d65b,/data/JZ/test_star_salmon/raw_data/923f1d11-b7b5-49b9-9d3a-f037a974d65b_1.fastq.gz,/data/JZ/test_star_salmon/raw_data/923f1d11-b7b5-49b9-9d3a-f037a974d65b_2.fastq.gz,unstranded
+6a08c20f-f647-48cc-9c6f-eefb6da31ec2,/data/JZ/test_star_salmon/raw_data/6a08c20f-f647-48cc-9c6f-eefb6da31ec2_1.fastq.gz,/data/JZ/test_star_salmon/raw_data/6a08c20f-f647-48cc-9c6f-eefb6da31ec2_2.fastq.gz,unstranded
+7e8b0f1c-cda8-4122-9176-b2d3681b4ebc,/data/JZ/test_star_salmon/raw_data/7e8b0f1c-cda8-4122-9176-b2d3681b4ebc_1.fastq.gz,/data/JZ/test_star_salmon/raw_data/7e8b0f1c-cda8-4122-9176-b2d3681b4ebc_2.fastq.gz,unstranded
+SRR7686464,/data/JZ/test_star_salmon/raw_data/SRR7686464_1.fastq.gz,/data/JZ/test_star_salmon/raw_data/SRR7686464_2.fastq.gz,unstranded
+f9c7f8e8-1b11-4222-bc48-39dd938e657c,/data/JZ/test_star_salmon/raw_data/f9c7f8e8-1b11-4222-bc48-39dd938e657c_1.fastq.gz,/data/JZ/test_star_salmon/raw_data/f9c7f8e8-1b11-4222-bc48-39dd938e657c_2.fastq.gz,unstranded
+ERR2539163,/data/JZ/test_star_salmon/raw_data/ERR2539163_1.fastq.gz,,reverse
+af354027-d898-44b7-8ac1-eb3ebf07454c,/data/JZ/test_star_salmon/raw_data/af354027-d898-44b7-8ac1-eb3ebf07454c_1.fastq.gz,/data/JZ/test_star_salmon/raw_data/af354027-d898-44b7-8ac1-eb3ebf07454c_2.fastq.gz,unstranded
+11916c7c-fa91-4c5c-b30c-08aa72a3a972,/data/JZ/test_star_salmon/raw_data/11916c7c-fa91-4c5c-b30c-08aa72a3a972_1.fastq.gz,/data/JZ/test_star_salmon/raw_data/11916c7c-fa91-4c5c-b30c-08aa72a3a972_2.fastq.gz,unstranded
+SRR4043843,/data/JZ/test_star_salmon/raw_data/SRR4043843_1.fastq.gz,/data/JZ/test_star_salmon/raw_data/SRR4043843_2.fastq.gz,unstranded
+ba5c394f-6645-40c0-8c6c-d49afbc63a59,/data/JZ/test_star_salmon/raw_data/ba5c394f-6645-40c0-8c6c-d49afbc63a59_1.fastq.gz,/data/JZ/test_star_salmon/raw_data/ba5c394f-6645-40c0-8c6c-d49afbc63a59_2.fastq.gz,unstranded
+4c61943c-702d-4d0b-9f38-2997c5deb0ae,/data/JZ/test_star_salmon/raw_data/4c61943c-702d-4d0b-9f38-2997c5deb0ae_1.fastq.gz,/data/JZ/test_star_salmon/raw_data/4c61943c-702d-4d0b-9f38-2997c5deb0ae_2.fastq.gz,unstranded
+53c47f05-bf62-4085-a013-3a4b308e86be,/data/JZ/test_star_salmon/raw_data/53c47f05-bf62-4085-a013-3a4b308e86be_1.fastq.gz,/data/JZ/test_star_salmon/raw_data/53c47f05-bf62-4085-a013-3a4b308e86be_2.fastq.gz,unstranded
